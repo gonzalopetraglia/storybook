@@ -75,8 +75,7 @@
   },
   "peerDependencies": {
     "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "typescript": "^4.6.3"
+    "react-dom": "^16.8.6"
   },
   "plugins": [
     "@semantic-release/commit-analyzer",
